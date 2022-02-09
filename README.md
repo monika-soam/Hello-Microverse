@@ -1,9 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# My Portfolio
 
-# Project Name
-
-> "Hello Microverse!"
-My first day-2 project
+> "Portfolio: setup and mobile version skeleton"
 
 
 ## Built With
@@ -12,19 +10,19 @@ My first day-2 project
 - linters
 
 
+👤 **Monika**
 
-👤 **Author1**
-
-- GitHub: monika-soam
-- Twitter: monikasoam
+- GitHub: https://github.com/monika-soam
+- Twitter: @monikasoam
 - LinkedIn: linkedin.com/in/monika-soam-✓-16b59925
 
 
 ## Show your support
 
-Give a ⭐️ if you like this project! and advice me where to work on
+Give a ⭐️ if you like this project! and advice me where can I work upon.
 
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
